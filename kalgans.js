@@ -69,7 +69,7 @@ async function startHaikal() {
 const haikal = makeWASocket({
 logger: pino({ level: 'silent' }),
 printQRInTerminal: true,
-browser: ['Haikal Multi Device','Safari','1.0.0'],
+browser: ['Sans Bot','Safari','1.0.0'],
 auth: state})
 //=================================================//
 store.bind(haikal.ev)
@@ -165,7 +165,7 @@ fileLength: 99999999999999,
 caption: he,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `SUBSCRIBE HW MODS WA`,
+body: `Jan Lupa Follow Ig Ownerw`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
@@ -186,7 +186,7 @@ fileLength: 99999999999999,
 caption: he,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `SUBSCRIBE HW MODS WA`,
+body: `Jan Lupa Follow Ig Owner`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
