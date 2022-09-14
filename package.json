@@ -1,5 +1,5 @@
 {
-"name": "haikal-hw",
+"name": "SANS BOT",
 "version": "1.2.3",
 "description": "WhatsApp Using Lib Baileys Multi Device",
 "main": "kalgans.js",
@@ -18,7 +18,7 @@
 "bot-md",
 "multi-device"
 ],
-"author": "Haikal Hw.",
+"author": "Wanda Prasetya",
 "license": "MIT",
 "dependencies": {
 "@adiwajshing/baileys": "^4.1.0",
