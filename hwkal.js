@@ -36,12 +36,12 @@ global.sessionName = './sessionye/session'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    nsfw: '*Fitur NSFW tidak diaktifkan, chat admin grup supaya diaktifkan*_',
-    wait: '*Loading... Sabar Wibu*_',
+    nsfw: '*Fitur NSFW tidak diaktifkan, chat admin grup atau owner sans bot supaya diaktifkan*_',
+    wait: '*Loading...Sabarrr Ngentodd*_',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
+    bot: 'Fitur Khusus Owner Sans Bot',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
-    verif: 'Hai Kakak 👋 Silahkan Verifikasi Terlebih Dahulu Agar Bisa Menggunakan Bot Hw Mods',
+    verif: 'Hai Kakak 👋 Silahkan Verifikasi Terlebih Dahulu Agar Bisa Menggunakan SANS BOT',
 }
 //=================================================//
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
