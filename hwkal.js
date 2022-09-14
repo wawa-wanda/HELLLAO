@@ -13,26 +13,26 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/HwModsWa857'
-global.ig = 'https://www.instagram.com/hikal_857/?hl=id'
-global.mygc = 'wa.me/6285714170944'
-global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
-global.linkgrupss = "https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K"
+global.youtube = 'https://wa.me/628975217200'
+global.ig = 'https://www.instagram.com/wnd.prfct'
+global.mygc = 'https://chat.whatsapp.com/EsIIgIYLoqqGM6WnMwdUaS'
+global.myweb = 'https://github.com/wawa-wanda'
+global.linkgrupss = "https://chat.whatsapp.com/EsIIgIYLoqqGM6WnMwdUaS
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
-global.email = 'denyp857@gmail.com'
-global.region = 'indonesia'
+global.email = 'prwsetya@gmail.ckm'
+global.region = '𝐀𝐑𝐀𝐁 𝐒𝐀𝐔𝐃𝐈'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'HW MODS WA' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '𝚆𝚊𝚗𝚍𝚊 𝙿𝚛𝚊𝚜𝚎𝚝𝚢𝚊' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '𝚂𝙰𝙽𝚂 𝙱𝙾𝚃' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = '𝐢𝐧𝐠𝐚𝐭𝐭!!! 𝐭𝐢𝐝𝐚𝐤 𝐬𝐞𝐦𝐮𝐚 𝐜𝐰𝐨𝐤 𝐢𝐭𝐮 𝐬𝐚𝐦𝐚 ,𝐡𝐚𝐧𝐲𝐚 𝐬𝐚𝐣𝐚 𝐜𝐞𝐰𝐞𝐤 𝐲𝐚𝐧𝐠 𝐬𝐞𝐥𝐚𝐥𝐮 𝐬𝐚𝐥𝐚𝐡 𝐦𝐞𝐧𝐢𝐥𝐚𝐢 𝐩𝐚𝐬𝐚𝐧𝐠𝐚𝐧 𝐧𝐲𝐚'//ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281214281312']
-global.premium = ['6281214281312']
-global.packname = 'HW MODS WA'
-global.ownerr = ['HW MODS WA']
-global.author = 'HW MODS WA'
-global.sessionName = './sessionye/haikal'
+global.owner = ['628975217200']
+global.premium = ['628975217200']
+global.packname = '𝚂𝙰𝙽𝚂 𝙱𝙾𝚃'
+global.ownerr = ['𝚆𝚊𝚗𝚍𝚊 𝙿𝚛𝚊𝚜𝚎𝚝𝚢𝚊']
+global.author = '𝚆𝚊𝚗𝚍𝚊 𝙿𝚛𝚊𝚜𝚎𝚝𝚢𝚊'
+global.sessionName = './sessionye/session'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
@@ -70,11 +70,11 @@ global.limitawal = {
    potionawal: 1
 }
 //=================================================//
-global.thumb = fs.readFileSync("./baseikal/image/hw.jpg")
-global.visoka = fs.readFileSync("./baseikal/video/hikal.gif")
+global.thumb = fs.readFileSync("./baseikal/image/haikal.jpg")
+global.visoka = fs.readFileSync("./baseikal/image/haikal.jpg")
 global.log0 = fs.readFileSync("./baseikal/image/haikal.jpg")
 global.menuimg = 'https://k.top4top.io/p_2388xws321.jpg'
-global.ggikal = fs.readFileSync("./baseikal/video/haikal.mp4")
+global.ggikal = fs.readFileSync("./baseikal/image/haikal.jpg")
 //=================================================//
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
